@@ -61,18 +61,3 @@ def get_sum_of_squares(i):
     for j in range(i):
         sq_sum += (get_number(i-1, j))**2
     return sq_sum
-
-#Prints a left aligned pascal's triangle.
-def print_tree(num_rows):
-    #Was unable to finish this function, returns None.
-    return None
-
-#Gets the diagonal sum of values from the print_tree function.
-def get_diagonal_sum(i):
-    #Was unable to finish this function, returns None.
-    return None
-
-#Prints a triangle out of asterisks
-def print_pretty_tree(num_rows):
-    #Was unable to finish this function, returns None.
-    return None
