@@ -4,6 +4,10 @@
 
 #Recieved help from: Jennifer Courter
 
+#NOTICE: This program requires the graphics.py library (by John Zelle) to be in the
+#same directory as this file in order for this program to work. You can find this file
+#in my SMC-CS21 repository.
+
 '''This program is a simple target game which functions as a real life dartboard.
 Each ring awards the player a different amount of points with the yellow awarding
 9, red awards 7, blue awards 5, black awards 3, white awards 1, and anything
